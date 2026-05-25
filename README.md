@@ -145,7 +145,7 @@ EPIC: Módulo de Playlists y Búsqueda — Spotify Web
 
 ## 7. Informe Completo
 
-📄 **[Ver Informe Lab 04 en Word](#)** *(https://docs.google.com/document/d/1kSWci-99ErKUwqHsJzWMPFGrkBYFhAga/edit?usp=drive_link&ouid=102948391865322967982&rtpof=true&sd=true)*
+📄 **[Ver Informe Lab 04 en Word](https://docs.google.com/document/d/1kSWci-99ErKUwqHsJzWMPFGrkBYFhAga/edit?usp=drive_link&ouid=102948391865322967982&rtpof=true&sd=true)**
 
 ---
 
